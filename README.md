@@ -1,5 +1,4 @@
-# Parshav
+# dependencies
 
-dependencies {
-	        implementation 'com.github.parshavgoyal:Parshav:Tag'
-	}
+      {implementation 'com.github.parshavgoyal:Parshav:Tag'}
+	
